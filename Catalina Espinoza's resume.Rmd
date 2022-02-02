@@ -1,0 +1,225 @@
+---
+title: "Catalina Espinoza's resume"
+author: Catalina Espinoza
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> cespinozaquijada@gmail.com
+- <i class="fa fa-github"></i> [github.com/CatitaR](https://github.com/CatitaR)
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in survey design, compute of sample size, compute of sampling weights.
+
+- Experienced in compute estimations, variance and sampling errors with complex surveys.
+
+- Knowledge about evaluation of statistical quality, non-response models, panel surveys.
+
+- Highly skilled in R, SAS.
+
+- Languages: Spanish (native), English (High-intermediate).
+
+
+
+Main
+================================================================================
+
+Catalina Espinoza {#title}
+--------------------------------------------------------------------------------
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Survey Methodologist
+
+Subdepartment of Frame and Sampling Design, National Institute of Statistics.
+
+Santiago, Chile
+
+August 2017-today
+
+::: concise
+- Research about international standars and recommendations for survey design. 
+- Compute sampling size depending on different features and settings. 
+- Compute sampling weights applying adjustments and non-response models.
+- Compute estimations, variance and survey errors with complex surveys.
+:::
+
+### Quantitative Analyst
+
+DESUC: Department of Social Studies, UC Chile.
+
+Santiago, Chile
+
+January - March 2017
+
+::: concise
+- Data wrangling and quantitative analysis.
+- Writing reports about working environment for CODELCO Chile 
+:::
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Bachelor of Arts in Sociology
+ 
+Institute of Sociology, Pontificia Universidad Católica de Chile (UC Chile) 
+
+ 
+Santiago, Chile
+
+March 2012 - December 2016
+
+10-semester program
+
+Training courses {data-icon=book}
+--------------------------------------------------------------------------------
+
+### SQL Server Intermediate
+
+National Institute of Statistics
+
+Santiago, Chile
+
+November 2021
+
+### Data Mining and Introduction to Deep Learning
+
+Pontificia Universidad Católica de Chile
+
+Santiago, Chile
+
+September - October 2019
+
+### Introduction to R Language
+
+National Institute of Statistics
+
+Santiago, Chile
+
+September - October 2019
+
+### SAS Programming High-Intermediate
+
+National Institute of Statistics
+
+Santiago, Chile
+
+May 2018
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Research assistant
+
+SUMMA Chile: Research and Innovation Laboratory for Education in Latin America and the Caribbean.
+
+Santiago, Chile
+
+April - June 2017
+
+- Data wrangling and quantitative analysis.
+- Writing a report about work and educational trajectories of Chilean students. 
+
+### Research Assistant
+
+Department of Studies Justice and Society, UC Chile.
+
+Santiago, Chile
+
+July - December 2016
+
+- Data wrangling and quantitative analysis.
+- Writing reports about crime, violence, consumption of drugs and social reintegration for different non-profit organizations and government agencies. 
+
+
+### Undergraduate Research Assistant
+
+Faculty of Education, UC Chile
+
+Santiago, Chile
+
+July - August 2016
+
+- Data wrangling and quantitative analysis of a panel study.
+- Research: "¿How family and Preschool can affect early literacy in low-SES children from prekindergarten to fourth year of elementary school?". Main researcher: Susana Mendive.
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language and computational reproducibility.
+
+Instructor of R at National Institute of Statistics.
+
+Santiago, Chile
+
+2021
+
+### Statistics I.
+
+Teaching assistant of Statistics course at Universidad Finis Terrae
+
+Santiago, Chile
+
+2016
+
+### Data Analysis.
+
+Teaching assistant of Data Analysis I & II courses at UC Chile
+
+Santiago, Chile
+
+2015
+
+### Sociological Paradigms.
+
+Teaching assistant of Sociological Paradigms course at UC Chile
+
+Santiago, Chile
+
+2013-2014
+
+Extra-curricular activities {data-icon=handshake}
+--------------------------------------------------------------------------------
+### Work environmental consultant.
+
+Subdepartment of Frame and Sampling Design, National Institute of Statistics.
+
+Santiago, Chile
+
+July 2020 - today
+
+::: concise
+- Responsible for implementing the work environment action plan of National Institute of Statistics.
+- Responsible for identifying problems related to work environment, finding solutions and mediating conflicts.
+:::
+
+Relevant references {data-icon=user-friends}
+--------------------------------------------------------------------------------
+### Denisse López Arenas.
+
+National Institute of Statistics.
+
+Santiago, Chile
+
+- E-mail: delopeza@ine.gob.cl
+- Director of Department of Methodologies and Statistical Innovation
