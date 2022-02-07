@@ -9,4 +9,6 @@ Currículo vitae de Catalina Espinoza.
 
 ### English:
 
-Catalina Espinoza’s curriculum vitae.
+Catalina Espinoza’s resume.
+
+Made with "pagedown" package resume template
